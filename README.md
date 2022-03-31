@@ -2,6 +2,8 @@
 
 - 🔭 Working as iOS Developer Intern at Apple Developer Academy @BINUS
 - 📱 iOS Enthusiast
+- 🛠 XCode, UIKit, CoreData, RxSwift, Alamofire, KingFisher, etc.
+- 💡 MVC, MVVM, SOLID
 - 👯 Looking for opportunities and collaboration on iOS Development!
 - 📫 Reach me: hilmyveradin@gmail.com
 
