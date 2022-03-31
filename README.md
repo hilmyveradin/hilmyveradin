@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Hilmy
+
+- 🔭 Working as iOS Developer Intern at Apple Developer Academy @BINUS
+- 📱 iOS Enthusiast
+- 👯 Looking for opportunities and collaboration on iOS Development!
+- 📫 Reach me: hilmyveradin@gmail.com
 
 <!--
 **hilmyveradin/hilmyveradin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
