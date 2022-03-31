@@ -1,6 +1,6 @@
 ### Hi, I'm Hilmy
 
-- 🔭 Working as iOS Developer Intern at Apple Developer Academy @BINUS
+- 🔭 Working as Junior iOS Developer Intern at Apple Developer Academy @BINUS
 - 📱 iOS Enthusiast
 - 🛠 XCode, UIKit, CoreData, RxSwift, Alamofire, KingFisher, etc.
 - 💡 MVC, MVVM, SOLID
