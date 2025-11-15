@@ -2,8 +2,8 @@
 
 I'm Hilmy Veradin, a product engineer specializing in the Apple and React ecosystem. I like to work on crafting software from 0 to 1 and scaling things up. Visit my personal blog and Twitter to learn more about me~
 
-https://www.hilmyveradin.dev/
-https://x.com/hveradin
+- https://www.hilmyveradin.dev/
+- https://x.com/hveradin
 
 P.S. Besides writing code, I enjoy cooking, running, and reading books 😁
 
